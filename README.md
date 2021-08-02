@@ -1,2 +1,2 @@
-# s4tech-design.gitu.io
+# s4tech-design.github.io
 Pages portfolio &amp; testimonial
